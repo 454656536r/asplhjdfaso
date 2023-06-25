@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 100%;
+    height: 800px;
+    margin: auto;
+    background-repeat:no-repeat ;
+    background-color: antiquewhite;
+}
+.bizhi{
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 10px;
+    float: left;
+    font-family: '幼圆', Arial, sans-serif;
+    background-color: aquamarine;
+}
+.tan{
+    width: 980px;
+    height: 490px;
+    border: none;
+    margin: 10px;
+    float: left;
+    background-color: aquamarine;
+}
+.layui-nav-item h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size:30px ;
+}
+.cha{
+    width: 40px;
+    height: 30px;
+    float: right;
+    border: none;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0);
+}
+.cha:hover{
+    color: aliceblue;
+    background-color: rgb(247, 121, 121);
+}
+.chas{
+    width: 40px;
+    height: 30px;
+    float: right;
+    border: none;
+    text-align: center;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0);
+}
+.chas:hover{
+    background-color: rgb(138, 138, 138);
+}
+.xiang{
+    width: 780px;
+    height: 490px;
+    margin-left: 200px;
+    margin-top: -490px;
+    /* background-color: rgb(255, 145, 0); */
+}
+.xiangs{
+    width: 780px;
+    height: 490px;
+    margin-left: 200px;
+    margin-top: -490px;
+    /* background-color: rgb(166, 218, 176); */
+}
+.xiangt{
+    width: 780px;
+    height: 490px;
+    float: left;
+    margin-left: 200px;
+    margin-top: -490px;
+    /* background-color: rgb(0, 228, 46); */
+}
+.size{
+    width: 695px;
+    height: 30px;
+    color: dimgrey;
+    margin: 10px 0px 0px 5px ;
+    /* background-color: rgb(255, 250, 196); */
+}
+.tu{
+    width: 175px;
+    height: 130px;
+    float: left;
+    margin: 8px;
+    border-radius: 10px;
+    /* background-color: chartreuse; */
+}
+.fas{
+    width: 175px;
+    height: 130px;
+    border-radius: 10px;
+}
+.flow-demo{
+    float: left;
+    overflow: scroll;
+    height:450px ;
+    /* background-color: khaki; */
+}
+#ychz{
+    background-color: black;
+}
